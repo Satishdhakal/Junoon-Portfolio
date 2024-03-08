@@ -6,7 +6,7 @@
           <div class="flex flex-1 items-center">
             <div class="flex w-full items-center justify-between md:w-auto">
               <NuxtLink to="/">
-                <span class="sr-only">Your Name</span>
+                <span class="sr-only">Junoon</span>
                 <img class="h-8 w-auto sm:h-10" src="https://placeholder.pics/svg/300x200/78D2FF-FFB3FD/logo" alt="" />
               </NuxtLink>
               <div class="-mr-2 flex items-center md:hidden">
@@ -92,7 +92,7 @@
         </a>
       </div>
       <div class="mt-8 md:order-1 md:mt-0">
-        <p class="text-center text-xs leading-5 text-pink-400">&copy; 2024 Your Name. All rights reserved.</p>
+        <p class="text-center text-xs leading-5 text-pink-400">&copy; 2024 Junoon. All rights reserved.</p>
       </div>
     </div>
   </footer>
