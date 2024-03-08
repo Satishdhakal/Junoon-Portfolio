@@ -118,7 +118,7 @@ const art = [
     name: 'Oil Paintings',
     slug: 'Oil Paintings',
     description: 'With oilcolor as my choosen medium , I created these works in between 2020 and 2023..',
-    imageSrc: 'https://placehold.co/400?text=Art+piece',
+    imageSrc: 'oilpaintmain.jpg',
     imageAlt: 'Art piece 2 alt text.',
   },
   {
@@ -126,7 +126,7 @@ const art = [
     name: 'Acrylic Color',
     slug: 'Acrylic Color',
     description: 'With acrylics as my choosen medium , I created these works in 2023.',
-    imageSrc: 'https://placehold.co/400?text=Art+piece',
+    imageSrc: 'acrylicmain.jpg',
     imageAlt: 'Art piece 3 alt text.',
   },
   {
@@ -134,7 +134,7 @@ const art = [
     name: 'Charcoal Works',
     slug: 'Charcoal Works',
     description: 'With charcoal as my choosen medium , I created these works in 2023.',
-    imageSrc: 'https://placehold.co/400?text=Art+piece',
+    imageSrc: 'charcolemain.jpg',
     imageAlt: 'Art piece 4 alt text.',
   },
   {

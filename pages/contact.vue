@@ -4,7 +4,7 @@
     <div class="lg:absolute lg:inset-0 lg:left-1/2">
       <img
         class="h-64 w-full bg-gray-50 object-cover sm:h-80 lg:absolute lg:h-full"
-        src="https://placehold.co/3413?text=Art+piece"
+        src="../public/contactpic.jpg"
         alt=""
       />
     </div>

@@ -51,7 +51,7 @@ const art = [
     name: 'Art piece 2',
     href: '#',
     description: 'Art piece 2 descriptions Qui irure qui Lorem cupidatat commodo.',
-    imageSrc: 'https://placehold.co/400?text=Art+piece',
+    imageSrc: 'watercolor-2.jpg',
     imageAlt: 'Art piece 2 alt text.',
   },
   {
