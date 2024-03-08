@@ -8,7 +8,7 @@
             <div class="lg:py-24">
               <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl lg:mt-6 xl:text-6xl">
                 <span class="block">Welcome to my art</span>
-                <span class="block text-pink-400">I am Shristi</span>
+                <span class="block text-pink-400">I am Junoon</span>
               </h1>
               <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
                 Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui Lorem cupidatat commodo. Elit sunt amet
