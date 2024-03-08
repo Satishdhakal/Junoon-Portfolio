@@ -13,7 +13,7 @@
         <div class="mx-auto max-w-xl lg:mx-0 lg:max-w-lg">
           <h2 class="text-3xl font-bold tracking-tight text-gray-900">Let's connect</h2>
           <p class="mt-2 text-lg leading-8 text-gray-600">
-            Proin volutpat consequat porttitor cras nullam gravida at orci molestie a eu arcu sed ut tincidunt magna.
+            If you have any queries, then you can contact me from below. You can find me on instagram and tiktok aswell.
           </p>
           <form action="#" method="POST" class="mt-16">
             <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">

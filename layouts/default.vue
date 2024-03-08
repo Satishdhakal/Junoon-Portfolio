@@ -26,8 +26,17 @@
                   :key="item.name"
                   href="#art"
                   class="text-base font-medium text-pink-400 hover:text-pink-500"
+                  >Introduction</a
+                >
+
+                <a
+                  v-if="item.href === '/' && route.name === 'index'"
+                  :key="item.name"
+                  href="#intro"
+                  class="text-base font-medium text-pink-400 hover:text-pink-500"
                   >My Art</a
                 >
+                
                 <NuxtLink
                   v-else
                   :key="item.href"
@@ -153,10 +162,10 @@ const navigation = [
 const art = [
   {
     id: 1,
-    name: 'Art piece 1',
+    name: 'The art piece',
     href: '#',
     description: 'Art piece 1 descriptions Qui irure qui Lorem cupidatat commodo.',
-    imageSrc: 'https://placehold.co/400?text=Art+piece',
+    imageSrc: 'watercolor-1.jpg',
     imageAlt: 'Art piece 1 alt text.',
   },
   {

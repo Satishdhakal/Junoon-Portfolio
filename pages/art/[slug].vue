@@ -8,7 +8,7 @@
         <h2 class="text-3xl font-bold tracking-tight text-pink-400 sm:text-4xl">
           {{ route.params.slug.replaceAll('-', ' ') }}
         </h2>
-        <p class="mt-2 text-lg leading-8 text-gray-600">Vel dolorem qui facilis soluta sint aspernatur totam cumque.</p>
+
       </div>
       <div class="grid grid-cols-1 gap-y-4 sm:grid-cols-2 sm:gap-x-6 sm:gap-y-10 lg:grid-cols-3 lg:gap-x-8">
         <div
@@ -40,11 +40,11 @@ const route = useRoute()
 const art = [
   {
     id: 1,
-    name: 'Art piece 1',
+    name: 'The art',
     href: '#',
     description: 'Art piece 1 descriptions Qui irure qui Lorem cupidatat commodo.',
-    imageSrc: 'https://placehold.co/400?text=Art+piece',
-    imageAlt: 'Art piece 1 alt text.',
+    imageSrc: '../../public/watercolor-1.jpg',
+    imageAlt: 'Random art',
   },
   {
     id: 2,
@@ -59,7 +59,7 @@ const art = [
     name: 'Art piece 3',
     href: '#',
     description: 'Art piece 2 descriptions Qui irure qui Lorem cupidatat commodo.',
-    imageSrc: 'https://placehold.co/400?text=Art+piece',
+    imageSrc: 'watercolor-3.jpg',
     imageAlt: 'Art piece 3 alt text.',
   },
   {
@@ -67,7 +67,7 @@ const art = [
     name: 'Art piece 4',
     href: '#',
     description: 'Art piece 2 descriptions Qui irure qui Lorem cupidatat commodo.',
-    imageSrc: 'https://placehold.co/400?text=Art+piece',
+    imageSrc: 'watercolor-4.jpg',
     imageAlt: 'Art piece 4 alt text.',
   },
   {
@@ -75,7 +75,7 @@ const art = [
     name: 'Art piece 5',
     href: '#',
     description: 'Art piece 2 descriptions Qui irure qui Lorem cupidatat commodo.',
-    imageSrc: 'https://placehold.co/400?text=Art+piece',
+    imageSrc: 'watercolor-5.jpg',
     imageAlt: 'Art piece 5 alt text.',
   },
   {
@@ -83,7 +83,7 @@ const art = [
     name: 'Art piece 6',
     href: '#',
     description: 'Art piece 6 descriptions Qui irure qui Lorem cupidatat commodo.',
-    imageSrc: 'https://placehold.co/400?text=Art+piece',
+    imageSrc: 'watercolor-6.jpg',
     imageAlt: 'Art piece 6 alt text.',
   },
 ]
