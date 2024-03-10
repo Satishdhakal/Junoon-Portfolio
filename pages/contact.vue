@@ -2,7 +2,7 @@
 <template>
   <div class="relative w-full bg-yellow-200">
     <div class="lg:absolute lg:inset-0 lg:left-1/2">
-      <img class="object-cover w-full h-64 bg-gray-50 sm:h-80 lg:absolute lg:h-full" src="../contactpic.jpg" alt="" />
+      <img class="object-cover w-full h-64 bg-gray-50 sm:h-80 lg:absolute lg:h-full" src="../public/contactpic.jpg" alt="" />
     </div>
     <div class="pt-16 pb-24 sm:pb-32 sm:pt-24 lg:mx-auto lg:grid lg:max-w-7xl lg:grid-cols-2 lg:pt-32">
       <div class="px-6 lg:px-8">
