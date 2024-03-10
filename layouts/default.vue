@@ -151,7 +151,7 @@ const route = useRoute()
 const footer = [
   {
     name: 'Instagram',
-    href: '#',
+    href: 'https://www.instagram.com/junnoonnnnnnnnnn/',
     icon: defineComponent({
       render: () =>
         h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [
@@ -165,7 +165,7 @@ const footer = [
   },
   {
     name: 'tictok',
-    href: '#',
+    href: 'https://www.tiktok.com/@ooppiiiiieeee',
     icon: defineComponent({
       render: () =>
         h('svg', { fill: 'currentColor', viewBox: '0 0 512 512' }, [
