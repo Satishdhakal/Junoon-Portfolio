@@ -60,14 +60,6 @@ const art = [
     imageAlt: 'Watercolor art piece.',
   },
   {
-    id: 2,
-    name: 'Oil Paintings',
-    type: 'oil-paintings',
-    description: 'With oilcolor as my choosen medium , I created these works in between 2020 and 2023..',
-    imageSrc: '../oilpaintmain.jpg',
-    imageAlt: 'Oil paintings',
-  },
-  {
     id: 3,
     name: 'Acrylic Color',
     type: 'acrylic-color',
@@ -112,7 +104,7 @@ const art = [
     name: 'Watercolor #3',
     type: 'watercolor',
     description: 'With watercolor as my choosen medium , I created these works in 2023.',
-    imageSrc: '../watercolor-3.jpg',
+    imageSrc: '../watercolor3.png',
     imageAlt: 'Watercolor art piece.',
   },
   {
@@ -139,6 +131,54 @@ const art = [
     imageSrc: '../watercolor-6.jpg',
     imageAlt: 'Watercolor art piece.',
   },
+  {
+    id: 12,
+    name: 'Oilpainting #1',
+    type: 'oil-paintings',
+    description: 'With watercolor as my choosen medium , I created these works in 2023.',
+    imageSrc: '../oilpainting1.jpg',
+    imageAlt: 'Watercolor art piece.',
+  },
+  {
+    id: 13,
+    name: 'Oilpainting #2',
+    type: 'oil-paintings',
+    description: 'With watercolor as my choosen medium , I created these works in 2023.',
+    imageSrc: '../oilpainting2.jpg',
+    imageAlt: 'Watercolor art piece.',
+  },
+  {
+    id: 14,
+    name: 'Oilpainting #3',
+    type: 'oil-paintings',
+    description: 'With watercolor as my choosen medium , I created these works in 2023.',
+    imageSrc: '../oilpainting3.jpg',
+    imageAlt: 'Watercolor art piece.',
+  },
+  {
+    id: 15,
+    name: 'Oilpainting #4',
+    type: 'oil-paintings',
+    description: 'With watercolor as my choosen medium , I created these works in 2023.',
+    imageSrc: '../oilpainting4.jpg',
+    imageAlt: 'Watercolor art piece.',
+  },
+  {
+    id: 16,
+    name: 'Oilpainting #5',
+    type: 'oil-paintings',
+    description: 'With watercolor as my choosen medium , I created these works in 2023.',
+    imageSrc: '../oilpainting5.jpg',
+    imageAlt: 'Watercolor art piece.',
+  },
+  {
+    id: 17,
+    name: 'Oilpainting #6',
+    type: 'oil-paintings',
+    description: 'With watercolor as my choosen medium , I created these works in 2023.',
+    imageSrc: '../oilpainting6.jpg',
+    imageAlt: 'Watercolor art piece.',
+  }
 ]
 
 const pageArt = computed(() => art.filter((item) => item.type === route.params.slug))

@@ -129,7 +129,7 @@ const art = [
     name: 'Digital Works',
     slug: 'digital-works',
     description: 'With digital arts as my choosen medium , I created these works in 2023.',
-    imageSrc: 'https://placehold.co/400?text=Art+piece',
+    imageSrc: 'digitalmain.png',
     imageAlt: 'Digital Works art piece.',
   },
   {
@@ -137,7 +137,7 @@ const art = [
     name: 'Photography Works',
     slug: 'photography-works',
     description: 'Here are some photographs',
-    imageSrc: 'https://placehold.co/400?text=Art+piece',
+    imageSrc: 'photomain.jpg',
     imageAlt: 'Photography Works art piece.',
   },
 ]
